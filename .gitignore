@@ -1,0 +1,5 @@
+env
+devenv
+*.pyc
+reminds_app/static
+.idea/*
