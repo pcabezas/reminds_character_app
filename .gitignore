@@ -2,4 +2,5 @@ env
 devenv
 *.pyc
 reminds_app/static
+reminds_app/reminds_app/secret.py
 .idea/*
